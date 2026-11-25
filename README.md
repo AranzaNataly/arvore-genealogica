@@ -3,4 +3,4 @@
 atividade proposta pelo instrutor do SENAI Iago Teixeira, sobre arvore genealogica da familia.
 
 
-Check my (./arvore-genealogica/pesquisa.md)!
+[Acesse a pesquisa sobre as transformações das profissões](pesquisa.md)
